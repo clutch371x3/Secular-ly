@@ -2,7 +2,7 @@
 
 This is an exploit to disable the Securly filtering extension.
 
-It was made by [@akabutnicer](https://github.com/akabutnicer) and [@ading2210](https://github.com/ading2210).
+It was made by [@clutch371x3](https://github.com/clutch371x3).
 
 ## How do I use this?
 
@@ -10,7 +10,7 @@ Visit one of the following links, and click the "Disable Securly" button:
 - https://secular-ly.pages.dev/
 - https://secular-ly.vercel.app/
 
-Or, you can download the HTML file in the [Github releases](https://github.com/ading2210/secular-ly/releases), and open it in Chrome. If file:// urls are blocked, you may import the same file as a saved bookmark into chrome://bookmarks. 
+Or, you can download the HTML file in the [Github releases](https://github.com/clutch371x3/secular-ly/releases), and open it in Chrome. If file:// urls are blocked, you may import the same file as a saved bookmark into chrome://bookmarks. 
 
 ## How does this work?
 
